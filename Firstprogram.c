@@ -3,8 +3,7 @@
 void main()
 {
 clrscr();
-printf("hel
-world");
+printf("hello world");
 getch();
 
 
