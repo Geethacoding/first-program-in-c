@@ -4,6 +4,7 @@ void main()
 {
 clrscr();
 printf("hello world");
+printf("this is the first programming");
 getch();
 
 
